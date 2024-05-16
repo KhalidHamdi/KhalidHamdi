@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalid Hamdi</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🌱 I’m currently learning **Spring**
-
 - 📫 How to reach me **Khalidhamdi204@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kewEMtkcDLqC-TSuXVpy0vDCoofkrr1u/view?usp=sharing](https://drive.google.com/file/d/1kewEMtkcDLqC-TSuXVpy0vDCoofkrr1u/view?usp=sharing)
